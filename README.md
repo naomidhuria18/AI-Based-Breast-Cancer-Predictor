@@ -30,6 +30,11 @@ The main objectives of this project are:
 
 ---
 
+![Project Image](images/1.jpeg)
+![Project Image](images/2.jpeg)
+![Project Image](images/3.jpeg)
+![Project Image](images/4.jpeg)
+
 ## 3. Project Structure
 
 The project contains the following main files:
