@@ -12,8 +12,6 @@ Among the models tested in the project, the **Support Vector Machine (SVM)** ach
 
 A Streamlit-based frontend was also created for the project. It allows the user to enter the required 22 feature values and receive a prediction from the trained model.
 
-> **Note:** This project is developed for educational and machine learning purposes. The prediction should not be considered a medical diagnosis.
-
 ---
 
 ## 2. Objective
